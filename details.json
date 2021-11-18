@@ -1,0 +1,88 @@
+  
+{
+    "shopList":
+    [
+      {"serialno":1,
+       "itemname":"Ashirwad",
+       "Quantity":"5",
+       "Unit":"kg",
+       "Department":"Atta",
+       "Notes":"Healthy Food"
+
+      },
+      {"serialno":2,
+        "itemname":"Dates",
+        "Quantity":"1/2",
+        "Unit":"kg",
+        "Department":"Dry Fruits",
+        "Notes":"Healthy Food"
+ 
+       },
+       {"serialno":3,
+        "itemname":"Fish",
+        "Quantity":"1",
+        "Unit":"kg",
+        "Department":"Nil",
+        "Notes":"Healthy Food"
+ 
+       },
+       {"serialno":4,
+        "itemname":"Sugar",
+        "Quantity":"5",
+        "Unit":"kg",
+        "Department":"Grocery",
+        "Notes":"Nil"
+ 
+       },
+       {"serialno":5,
+        "itemname":"badam",
+        "Quantity":"100",
+        "Unit":"gm",
+        "Department":"Grocery",
+        "Notes":"Healthy Food"
+ 
+       },
+       {"serialno":6,
+        "itemname":"Mixed Sweet Jam",
+        "Quantity":"500",
+        "Unit":"gm",
+        "Department":"Grocery",
+        "Notes":"Sweet"
+ 
+       },
+       {"serialno":7,
+        "itemname":"Butter",
+        "Quantity":"250",
+        "Unit":"gm",
+        "Department":"Grocery",
+        "Notes":"Healthy Food"
+ 
+       },
+       {"serialno":8,
+        "itemname":"coconut",
+        "Quantity":"53",
+        "Unit":"Pc",
+        "Department":"Miscellaneous",
+        "Notes":"Healthy Food"
+ 
+       },
+       {"serialno":9,
+        "itemname":"Rice",
+        "Quantity":"5",
+        "Unit":"kg",
+        "Department":"Grains",
+        "Notes":"Healthy Food"
+ 
+       },
+       {"serialno":10,
+        "itemname":"Chilli Powder",
+        "Quantity":"1",
+        "Unit":"kg",
+        "Department":"Grains",
+        "Notes":"Healthy Food"
+ 
+       }               
+
+      
+    ]
+    }
